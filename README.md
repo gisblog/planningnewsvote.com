@@ -1,6 +1,6 @@
 ### PlanningNewsVote.COM - PNV was a vote-based website for planning/GIS news (2007) [DISCONTINUED] ###
 
-This was a custom implementation of the [Pligg](https://github.com/berteh/pligg-cms) app, a Linux-Apache-MySQL-PHP CMS, fed news by users, and a Yahoo!Pipes Twitter bot that aggregated feeds and pages.
+This was a custom implementation of the [Pligg](https://github.com/berteh/pligg-cms) app, a Linux-Apache-MySQL-PHP CMS, fed news by users, and a Yahoo!Pipes Twitter bot that aggregated feeds and pages. Discontinued as part of Long Tail.
 
 
 * YouTube
